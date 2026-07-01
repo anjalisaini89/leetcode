@@ -144,7 +144,7 @@ This repository is a record of that journey.
 # 📊 Coding Profiles
 
 ### LeetCode
-https://leetcode.com/u/anjali_saini_
+https://leetcode.com/u/anjali_saini_/
 
 ### GitHub
 https://github.com/anjalisaini89
