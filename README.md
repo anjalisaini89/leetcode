@@ -144,13 +144,13 @@ This repository is a record of that journey.
 # 📊 Coding Profiles
 
 ### LeetCode
-https://leetcode.com/u/YOUR_USERNAME/
+https://leetcode.com/u/anjali_saini_
 
 ### GitHub
-https://github.com/YOUR_USERNAME
+https://github.com/anjalisaini89
 
 ### LinkedIn
-https://linkedin.com/in/YOUR_LINKEDIN
+https://www.linkedin.com/in/anjali-saini-598ba0325/
 
 ---
 
