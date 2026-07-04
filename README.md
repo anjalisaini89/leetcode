@@ -1,13 +1,17 @@
 <div align="center">
 
-# 👩🏻‍💻 LeetCode Journey
+# 💻 LeetCode Journey
 
 ### *"One problem at a time. One step closer to becoming a better engineer."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
-![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode)
-![Language](https://img.shields.io/badge/C%2B%2B-Primary-blue?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-Learning-yellow?style=for-the-badge&logo=python)
+![Profile Views](https://komarev.com/ghpvc/?username=anjalisaini89&color=blueviolet&style=for-the-badge)
+![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-Primary-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/anjali_saini_?theme=dark&font=Poppins&ext=heatmap" />
+</p>
 
 </div>
 
@@ -17,9 +21,9 @@
 
 Welcome to my LeetCode repository!
 
-I'm solving problems consistently to strengthen my understanding of **Data Structures & Algorithms**, improve problem-solving skills, and prepare for **Software Engineering** and **Data Science** interviews.
+I'm solving Data Structures & Algorithms problems consistently to strengthen my problem-solving skills, prepare for Software Engineering interviews, and improve my coding proficiency.
 
-This repository documents my learning journey—from easy problems to advanced algorithms.
+This repository documents my journey from beginner-friendly questions to advanced algorithmic challenges.
 
 ---
 
@@ -27,16 +31,16 @@ This repository documents my learning journey—from easy problems to advanced a
 
 - ✅ Build strong DSA fundamentals
 - ✅ Solve LeetCode consistently
-- ✅ Improve coding speed
-- ✅ Prepare for coding interviews
-- ✅ Track my progress publicly
+- ✅ Improve coding speed & accuracy
+- ✅ Prepare for Software Engineering interviews
+- ✅ Track my learning publicly
 - ✅ Write clean and optimized solutions
 
 ---
 
 # 💻 Languages
 
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=cpp,python"/>
 
@@ -46,24 +50,12 @@ This repository documents my learning journey—from easy problems to advanced a
 
 # 📂 Repository Structure
 
-```
+```text
 📦 LeetCode
- ┣ 📂 Arrays
- ┣ 📂 Strings
- ┣ 📂 HashMap
- ┣ 📂 Linked List
- ┣ 📂 Stack
- ┣ 📂 Queue
- ┣ 📂 Binary Search
- ┣ 📂 Sliding Window
- ┣ 📂 Two Pointers
- ┣ 📂 Trees
- ┣ 📂 Graphs
- ┣ 📂 Heap
- ┣ 📂 Recursion
- ┣ 📂 Backtracking
- ┣ 📂 Dynamic Programming
- ┗ 📂 Miscellaneous
+┣ 📂 Easy
+┣ 📂 Medium
+┣ 📂 Hard
+┗ 📜 README.md
 ```
 
 ---
@@ -73,11 +65,11 @@ This repository documents my learning journey—from easy problems to advanced a
 | Difficulty | Solved |
 |------------|:------:|
 | 🟢 Easy | 0 |
-| 🟡 Medium | 0 |
+| 🟡 Medium | 1 |
 | 🔴 Hard | 0 |
-| ⭐ Total | **0** |
+| ⭐ Total | **1** |
 
-> Progress updates automatically as I solve more problems.
+> This repository grows with every accepted solution.
 
 ---
 
@@ -89,16 +81,15 @@ This repository documents my learning journey—from easy problems to advanced a
 - Linked Lists
 - Stack
 - Queue
-- Trees
-- Binary Trees
 - Binary Search
 - Sliding Window
 - Two Pointers
+- Trees
+- Graphs
+- Heap (Priority Queue)
 - Recursion
 - Backtracking
 - Dynamic Programming
-- Graphs
-- Heap (Priority Queue)
 - Greedy
 - Bit Manipulation
 
@@ -106,27 +97,31 @@ This repository documents my learning journey—from easy problems to advanced a
 
 # 📌 Solution Format
 
-Each solution includes:
+Every solution aims to include:
 
 - ✅ Optimized Code
+- ✅ Clean & Readable Implementation
 - ✅ Time Complexity
 - ✅ Space Complexity
-- ✅ Clean Variable Naming
-- ✅ Comments (when needed)
+- ✅ Comments (when required)
 
 ---
 
-# 🌱 Current Focus
+# 🌱 Current Learning Roadmap
 
 ```text
-██████████░░░░░░░░░░  50%
+█░░░░░░░░░░░░░░░░░░░ 5%
 
 ✔ Arrays
-✔ Strings
+✔ Sliding Window
+⬜ Strings
 ⬜ Linked Lists
+⬜ Stack
+⬜ Queue
 ⬜ Trees
 ⬜ Graphs
 ⬜ Dynamic Programming
+⬜ Greedy
 ```
 
 ---
@@ -135,31 +130,48 @@ Each solution includes:
 
 I believe consistency beats motivation.
 
-Every solved problem helps me improve my analytical thinking, coding efficiency, and interview readiness.
+Every solved problem improves my analytical thinking, coding efficiency, and interview readiness.
 
-This repository is a record of that journey.
+This repository represents my continuous learning journey toward becoming a better Software Engineer.
 
 ---
 
 # 📊 Coding Profiles
 
-### LeetCode
-https://leetcode.com/u/anjali_saini_/
+<p align="center">
 
-### GitHub
-https://github.com/anjalisaini89
+<a href="https://leetcode.com/u/anjali_saini_/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-### LinkedIn
-https://www.linkedin.com/in/anjali-saini-598ba0325/
+<a href="https://github.com/anjalisaini89">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/anjali-saini-598ba0325/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📅 2026 Goals
+
+- 🎯 Solve 300+ LeetCode problems
+- 🧩 Master Data Structures & Algorithms
+- 🚀 Strengthen competitive programming skills
+- 💼 Crack Software Engineering interviews
+- 🌟 Stay consistent throughout the year
 
 ---
 
 <div align="center">
 
-### ⭐ If you find this repository helpful, consider giving it a Star!
+### ⭐ Thanks for visiting my repository!
 
-*"Success is the sum of small efforts, repeated day in and day out."*
+*"Small improvements every day lead to remarkable results."*
 
-🚀 Happy Coding!
+**Happy Coding! 🚀**
 
 </div>
