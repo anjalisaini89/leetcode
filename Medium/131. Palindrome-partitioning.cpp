@@ -1,6 +1,3 @@
-// OJ: https://leetcode.com/problems/palindrome-partitioning/
-// Time: O(N *  2^N)
-// Space: O(N) extra space
 class Solution {
     vector<vector<string>> ans;
     vector<string> tmp;
